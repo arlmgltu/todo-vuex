@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Aurelio",
+    "lastname": "Tacuri",
+    "age": 29,
+    "done": false
+  },
+  {
+    "id": 2,
+    "name": "Toni",
+    "lastname": "Quispe",
+    "age": 25,
+    "done": false
+  },
+  {
+    "id": 3,
+    "name": "José",
+    "lastname": "Velasco",
+    "age": 28,
+    "done": false
+  },
+  {
+    "id": 4,
+    "name": "Alan",
+    "lastname": "Quispe",
+    "age": 31,
+    "done": false
+  },
+  {
+    "id": 5,
+    "name": "Paolo",
+    "lastname": "Paz",
+    "age": 29,
+    "done": false
+  },
+  {
+    "id": 6,
+    "name": "Victor",
+    "lastname": "Mamani",
+    "age": 28,
+    "done": false
+  },
+  {
+    "id": 7,
+    "name": "Alvaro",
+    "lastname": "Sacari",
+    "age": 30,
+    "done": false
+  }
+]
